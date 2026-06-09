@@ -1,0 +1,6 @@
+query_id,predicted_solution,top_5_case_ids
+18,2 dua tahun dan 6 enam bulan penjara dengan perintah agar terdakwa ditahan 3,"[18, 1, 37, 21, 31]"
+14,8 delapan tahun dengan perintah terdakwa ditahan dan denda sebesar rp,"[14, 13, 10, 27, 8]"
+5,1 satu tahun dan membayar denda sebesar rp,"[5, 1, 37, 25, 31]"
+30,6 enam bulan dan denda sebesar rp50,"[30, 4, 12, 31, 25]"
+36,2 dua tahun dikurangi selama terdakwa berada dalam tahanan sementara ditambah dengan denda sebesar 10,"[36, 2, 6, 21, 37]"

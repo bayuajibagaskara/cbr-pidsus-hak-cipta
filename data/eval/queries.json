@@ -1,0 +1,27 @@
+[
+    {
+        "query_id": 18,
+        "query_text": "bahwa ia terdakwa pada hari senin tanggal 24 maret 2008 sekira pukul 17.00 wib atau setidak-tidaknya pada suatu waktu dalam tahun 2008 bertempat counter top cell digital jalan diponegoro 235 kelurahan lawang kecamatan lawang kabupaten malang atau setidak-tidaknya pada suatu tempat lain yang masih te",
+        "ground_truth_case_id": 18
+    },
+    {
+        "query_id": 14,
+        "query_text": "primair: bahwa mereka terdakwa dra. endang setyasti iranto selaku deputi direktur personalia dan training pada bank persyarikatan indonesia bpi berdasarkan kesepakatan kerja waktu tertentu tanggal 21 mei 2003 yang ditandatangani oleh saudara haril irwan moedahar selaku dirut bpi berlaku sejak tangga",
+        "ground_truth_case_id": 14
+    },
+    {
+        "query_id": 5,
+        "query_text": "bahwa ia terdakwa ir. andi samad pada hari sabtu tanggal 12 februari 2011 sekira pukul 23.17 wib atau setidak-tidaknya pada waktu lain dalam bulan februari 2011 atau setidak-tidaknya pada waktu lain di tahun 2011 bertempat di ruko batavia blok b no. 08 batu aji kota batam atau setidak tidaknya pada ",
+        "ground_truth_case_id": 5
+    },
+    {
+        "query_id": 30,
+        "query_text": "dengan dakwaan sebagai berikut: pertama : pasal 72 ayat 1 undang-undang nomor 19 tahun 2002 tentang hak cipta juncto pasal 121 huruf d undang-undang nomor 28 tahun 2014 atau kedua : pasal 72 ayat 2 undang-undang nomor 19 tahun 2002 tentang hak cipta juncto pasal 121 huruf d undang-undang nomor 28 ta",
+        "ground_truth_case_id": 30
+    },
+    {
+        "query_id": 36,
+        "query_text": "kesatu bahwa ia terdakwa yurmayni pgl.may bersama-sama dengan irwan pgl in daftar pencarian orang pada hari dan tanggal yang tidak dapat ditentukan secara pasti tapi masih dalam bulan september 2009 sampai dengan hari selasa tanggal 17 nopember 2009 sekira pukul 20.00 s/d 22.00 wib atau setidak-tida",
+        "ground_truth_case_id": 36
+    }
+]
